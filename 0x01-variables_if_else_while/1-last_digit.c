@@ -1,6 +1,6 @@
 /*
  * File: 1-last_digit.c
- * Auth: Sunday Isaac Ozovehe
+ * Auth: Obioha Ahaoma Michael
  */
 
 #include <stdlib.h>
